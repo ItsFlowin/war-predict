@@ -1,4 +1,4 @@
-scikit-learn
 flask
 pandas
 gunicorn
+xgboost
